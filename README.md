@@ -1,3 +1,5 @@
+![image alt]([
+](https://github.com/Yelle-stack/brainwave/blob/36e828c18788e756c25e159c61941beaa142d1ce/homePage.png)
 # 🧠 🦾 Brainwave 
 
 A modern AI-themed React website built with Vite 
