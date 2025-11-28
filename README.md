@@ -1,11 +1,11 @@
-[
-](https://github.com/Yelle-stack/brainwave/blob/36e828c18788e756c25e159c61941beaa142d1ce/homePage.png)# 🧠 🦾 Brainwave 
+# 🧠 🦾 Brainwave 
 
 A modern AI-themed React website built with Vite 
 
 Brainwave is a sleek and responsive front-end project designed to showcase an AI-inspired landing page. 
 It combines smooth animations, reusable components, and a clean UI to demonstrate modern React development practices.
 
+![image alt](https://github.com/Yelle-stack/brainwave/blob/36e828c18788e756c25e159c61941beaa142d1ce/homePage.png)
 ## 🚀 Features 
 
 ⚡ Built with React + Vite for lightning-fast development 
