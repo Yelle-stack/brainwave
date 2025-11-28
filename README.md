@@ -1,68 +1,68 @@
-# 🧠 🦾 Brainwave </ br>
+# 🧠 🦾 Brainwave 
 
-A modern AI-themed React website built with Vite </ br>
+A modern AI-themed React website built with Vite 
 
-Brainwave is a sleek and responsive front-end project designed to showcase an AI-inspired landing page. </br>
-It combines smooth animations, reusable components, and a clean UI to demonstrate modern React development practices. </br>
+Brainwave is a sleek and responsive front-end project designed to showcase an AI-inspired landing page. 
+It combines smooth animations, reusable components, and a clean UI to demonstrate modern React development practices.
 
-## 🚀 Features </ br>
+## 🚀 Features 
 
-⚡ Built with React + Vite for lightning-fast development </ br>
+⚡ Built with React + Vite for lightning-fast development 
 
-🎨 Modern UI/UX inspired by AI and futuristic design </ br>
+🎨 Modern UI/UX inspired by AI and futuristic design
 
-📱 Fully responsive on desktop & mobile </ br>
+📱 Fully responsive on desktop & mobile 
 
-🧩 Reusable components and clean code structure </ br>
+🧩 Reusable components and clean code structure 
 
-✨ Smooth animations (Framer Motion / CSS transitions) </ br>
+✨ Smooth animations (Framer Motion / CSS transitions)
 
-🌙 Dark theme style for an elegant look </ br>
-
-
-## 📦 Tech Stack </ br>
-
-React 18+ </ br>
-
-Vite </ br>
-
-JavaScript / JSX </ br>
-
-Tailwind CSS </ br>
-
-Framer Motion for animations </ br>
-
-ESLint for code quality </ br>
+🌙 Dark theme style for an elegant look
 
 
-## 🛠️ Getting Started </ br>
+## 📦 Tech Stack 
 
-Clone the repository: git clone https://github.com/Yelle-stack/brainwave.git </ br>
-cd brainwave </ br>
+React 18+ 
 
-Install dependencies: npm install </ br> 
+Vite 
 
-Start dev server: npm run dev </ br>
+JavaScript / JSX
 
-Build production files: npm run build </ br>
+Tailwind CSS 
+
+Framer Motion for animations
+
+ESLint for code quality 
 
 
-## 🎯 Purpose </ br>
+## 🛠️ Getting Started 
 
-This project is mainly created for: </ br>
+Clone the repository: git clone https://github.com/Yelle-stack/brainwave.git 
+cd brainwave 
 
-Practicing modern front-end development </ br>
+Install dependencies: npm install
 
-Building a visually impressive portfolio project </ br>
+Start dev server: npm run dev
 
-Improving React component structure and Tailwind workflow </ br>
+Build production files: npm run build 
 
-## 👩🏻‍💻 Author </ br>
 
-Jelena (Yelle-stack) </ br>
-💻 Front-end learner | Based in France </ br>
-🔗 GitHub: https://github.com/Yelle-stack </ br>
+## 🎯 Purpose 
 
-## ⭐ Support </ br>
+This project is mainly created for:
+
+Practicing modern front-end development 
+
+Building a visually impressive portfolio project 
+
+Improving React component structure and Tailwind workflow 
+
+## 👩🏻‍💻 Author 
+
+Jelena (Yelle-stack)
+💻 Front-end learner | Based in France 
+🔗 GitHub: https://github.com/Yelle-stack 
+
+## ⭐ Support 
 
 If you like this project, feel free to give it a star ⭐ on GitHub!
