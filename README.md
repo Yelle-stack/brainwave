@@ -1,16 +1,66 @@
-# React + Vite
+🧠 🦾 Brainwave </ br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern AI-themed React website built with Vite </ br>
 
-Currently, two official plugins are available:
+Brainwave is a sleek and responsive front-end project designed to showcase an AI-inspired landing page. </br>
+It combines smooth animations, reusable components, and a clean UI to demonstrate modern React development practices. </br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features </ br>
 
-## React Compiler
+⚡ Built with React + Vite for lightning-fast development </ br>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Modern UI/UX inspired by AI and futuristic design </ br>
 
-## Expanding the ESLint configuration
+📱 Fully responsive on desktop & mobile </ br>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧩 Reusable components and clean code structure </ br>
+
+✨ Smooth animations (Framer Motion / CSS transitions) </ br>
+
+🌙 Dark theme style for an elegant look </ br>
+
+
+📦 Tech Stack </ br>
+
+React 18+ </ br>
+
+Vite </ br>
+
+JavaScript / JSX </ br>
+
+Tailwind CSS </ br>
+
+Framer Motion for animations </ br>
+
+ESLint for code quality </ br>
+
+🛠️ Getting Started </ br>
+
+Clone the repository: git clone https://github.com/Yelle-stack/brainwave.git </ br>
+cd brainwave </ br>
+
+Install dependencies: npm install </ br> 
+
+Start dev server: npm run dev </ br>
+
+Build production files: npm run build </ br>
+
+🎯 Purpose </ br>
+
+This project is mainly created for: </ br>
+
+Practicing modern front-end development </ br>
+
+Building a visually impressive portfolio project </ br>
+
+Improving React component structure and Tailwind workflow </ br>
+
+👩🏻‍💻 Author </ br>
+
+Jelena (Yelle-stack) </ br>
+💻 Front-end learner | Based in France </ br>
+🔗 GitHub: https://github.com/Yelle-stack </ br>
+
+⭐ Support </ br>
+
+If you like this project, feel free to give it a star ⭐ on GitHub!
