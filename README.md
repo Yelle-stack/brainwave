@@ -1,11 +1,11 @@
-🧠 🦾 Brainwave </ br>
+# 🧠 🦾 Brainwave </ br>
 
 A modern AI-themed React website built with Vite </ br>
 
 Brainwave is a sleek and responsive front-end project designed to showcase an AI-inspired landing page. </br>
 It combines smooth animations, reusable components, and a clean UI to demonstrate modern React development practices. </br>
 
-🚀 Features </ br>
+## 🚀 Features </ br>
 
 ⚡ Built with React + Vite for lightning-fast development </ br>
 
@@ -20,7 +20,7 @@ It combines smooth animations, reusable components, and a clean UI to demonstrat
 🌙 Dark theme style for an elegant look </ br>
 
 
-📦 Tech Stack </ br>
+## 📦 Tech Stack </ br>
 
 React 18+ </ br>
 
@@ -34,7 +34,8 @@ Framer Motion for animations </ br>
 
 ESLint for code quality </ br>
 
-🛠️ Getting Started </ br>
+
+## 🛠️ Getting Started </ br>
 
 Clone the repository: git clone https://github.com/Yelle-stack/brainwave.git </ br>
 cd brainwave </ br>
@@ -45,7 +46,8 @@ Start dev server: npm run dev </ br>
 
 Build production files: npm run build </ br>
 
-🎯 Purpose </ br>
+
+## 🎯 Purpose </ br>
 
 This project is mainly created for: </ br>
 
@@ -55,12 +57,12 @@ Building a visually impressive portfolio project </ br>
 
 Improving React component structure and Tailwind workflow </ br>
 
-👩🏻‍💻 Author </ br>
+## 👩🏻‍💻 Author </ br>
 
 Jelena (Yelle-stack) </ br>
 💻 Front-end learner | Based in France </ br>
 🔗 GitHub: https://github.com/Yelle-stack </ br>
 
-⭐ Support </ br>
+## ⭐ Support </ br>
 
 If you like this project, feel free to give it a star ⭐ on GitHub!
